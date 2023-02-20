@@ -8,20 +8,38 @@
   
   .blog-header-logo {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
-    font-size: 2.25rem;
+    font-size: 3rem;
+    color:rgb(252, 10, 143)
   }
   
   .blog-header-logo:hover {
     text-decoration: none;
+    color: rgb(8,21,43,1);
+  }
+
+  .blog-post-title {
+    color: rgb(252, 10, 143)
+  }
+
+  .banner {
+    color: rgb(18, 17, 17);
   }
   
   h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    color: rgb(36, 35, 35);
   }
   
   .display-4 {
     font-size: 2.5rem;
   }
+
+  .bg-color {
+    background: rgb(8,21,43);
+    background: linear-gradient(0deg, rgba(8,21,43,1) 0%, rgba(255,56,210,1) 100%);
+  }
+
+
   @media (min-width: 768px) {
     .display-4 {
       font-size: 3rem;
