@@ -2,13 +2,13 @@
 <img width=75% src="https://user-images.githubusercontent.com/61480327/220404111-0504469a-58d6-43a2-8aa2-c6be9a9d1744.png">
 </p>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM+ANDAMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 
 
 <h2>Descrição do projeto </h2>
-  Projeto de um blog desenvolvido com o objetivo de aprender e praticar a framework Bootstrap.
+  Projeto de um blog desenvolvido com o objetivo de aprender e praticar o framework Bootstrap.
 <p>
   
 </p>
@@ -23,7 +23,7 @@
 
 ## Acesso ao projeto
 
-Você pode acessar em: 
+Você pode acessar em: https://natyaith.github.io/blog/
 
 ## Desenvolvedora
 
